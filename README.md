@@ -1,13 +1,15 @@
 ![IMG](https://github.com/mitali-12-3/LEGO-Insights-Dashboard/blob/main/output.png)
 
-1. Title: 🧱 LEGO Insights: Interactive Dashboard for Exploring LEGO Sets
+### 1. Title: 🧱 LEGO Insights: Interactive Dashboard for Exploring LEGO Sets
 A dynamic Power BI dashboard designed to analyze LEGO sets by theme, price, age range, and piece count—offering an engaging way to explore trends, collections, and value comparisons.
+<hr>
 
-2. Description
+### 2. Description
 
 The LEGO Insights Dashboard provides an intuitive view of over 500 LEGO sets, enabling users to filter by theme group, age range, and price. This tool is ideal for enthusiasts, collectors, or analysts who want to explore LEGO product trends, evaluate set values, or make informed purchase decisions.
+<hr>
 
-3. Tech Stack
+### 3. Tech Stack
 
 The dashboard was built using the following tools and technologies:<br>
 • 📊 Power BI Desktop – Core platform for dashboard creation.<br>
@@ -15,36 +17,30 @@ The dashboard was built using the following tools and technologies:<br>
 • 🧠 DAX (Data Analysis Expressions) – Built measures for calculating averages, price ranges, and filtering dynamically.<br>
 • 📝 Data Modeling – Created relationships between theme, pricing, and piece count data to enable seamless cross-filtering.<br>
 • 📁 File Format – .pbix for report development and .png for dashboard preview snapshots.
+<hr>
 
-4. Data Source
+### 4. Data Source
 
 Source: [lego_sets.csv] (uploaded dataset)<br>
 Contains data on 562 LEGO sets, including attributes like:
+a. Theme and Theme Group
+b. Age Recommendations
+c. Number of Pieces
+d. Average Price and Price Range
 
-Theme and Theme Group
+->This structured dataset allows segmentation by age, theme, and cost, while supporting trend analysis for set size and price.
+<hr>
 
-Age Recommendations
-
-Number of Pieces
-
-Average Price and Price Range
-
-This structured dataset allows segmentation by age, theme, and cost, while supporting trend analysis for set size and price.
-
-5. Features / Highlights
+### 5. Features / Highlights
 Business Problem
 
 LEGO enthusiasts, parents, and collectors often need to compare sets quickly by age range, complexity, and price to make better buying or collecting decisions. Raw data alone doesn’t reveal trends or highlight valuable insights.
 
-Goal of the Dashboard
+Goal of the Dashboard- To create an interactive visualization tool that:
 
-To create an interactive visualization tool that:
-
-Makes it easy to explore LEGO sets by theme, price, and complexity.
-
-Helps buyers identify high-value sets or appropriate products by age range.
-
-Provides insights into pricing and piece count patterns across different LEGO themes.
+1. Makes it easy to explore LEGO sets by theme, price, and complexity.
+2. Helps buyers identify high-value sets or appropriate products by age range.
+3. Provides insights into pricing and piece count patterns across different LEGO themes.
 
 Walkthrough of Key Visuals:-
 
